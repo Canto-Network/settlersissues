@@ -1,6 +1,6 @@
 ---
 name: UX / Interface
-about: Help us improve the UX / Interface
+about: Report any UX / Interface issues here
 title: ''
 labels: ''
 assignees: ''
